@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><theme>
+  <element name="p" id="iojij" class="">
+    <color textColor="#c71a1a" backgroundColor="#446382" borderColor=""/>
+    <police fontFamily="Courier New" fontStyle="italic" fontWeight="200" textAlign="center">
+      <fontSize unit="%">40</fontSize>
+    </police>
+    <alignement>
+      <width unit="rem">4</width>
+      <height unit="px">40</height>
+      <margin unit="px">0</margin>
+      <padding unit="px">0</padding>
+    </alignement>
+  </element>
+  <element name="a" id="" class="">
+    <color textColor="" backgroundColor="" borderColor=""/>
+    <police fontFamily="" fontStyle="normal" fontWeight="bold" textAlign="left">
+      <fontSize unit="px">30</fontSize>
+    </police>
+    <alignement>
+      <width unit="px">auto</width>
+      <height unit="px">auto</height>
+      <margin unit="px">0</margin>
+      <padding unit="px">0</padding>
+    </alignement>
+  </element>
+  <element name="div" id="" class="">
+    <color textColor="" backgroundColor="" borderColor=""/>
+    <police fontFamily="" fontStyle="" fontWeight="" textAlign="left">
+      <fontSize unit="px">auto</fontSize>
+    </police>
+    <alignement>
+      <width unit="px">auto</width>
+      <height unit="px">auto</height>
+      <margin unit="px">0</margin>
+      <padding unit="px">0</padding>
+    </alignement>
+  </element>
+  <element name="header" id="" class="">
+    <color textColor="" backgroundColor="" borderColor=""/>
+    <police fontFamily="" fontStyle="" fontWeight="" textAlign="left">
+      <fontSize unit="px">auto</fontSize>
+    </police>
+    <alignement>
+      <width unit="px">auto</width>
+      <height unit="px">auto</height>
+      <margin unit="px">0</margin>
+      <padding unit="px">0</padding>
+    </alignement>
+  </element>
+</theme>

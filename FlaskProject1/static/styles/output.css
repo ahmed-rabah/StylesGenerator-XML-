@@ -1,0 +1,150 @@
+h1.bigTitle {
+  color: #fbbcbc; 
+  background-color: #FFAA11; 
+  border-color: #db4848; 
+  font-family: Poppins; 
+  font-style: oblique; 
+  font-weight: 700; 
+  text-align: center; 
+  width: auto; 
+  width: 100%; 
+  height: 150px; 
+  margin: 12px; 
+  padding: 1rem; 
+}
+
+h2 {
+  color: #b80000; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: 30; 
+  width: auto; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+h2.Second {
+  color: #6e6e6e; 
+  background-color: #e1ff00; 
+  font-family: Poppins; 
+  font-style: oblique; 
+  font-weight: lighter; 
+  text-align: left; 
+  width: auto; 
+  width: auto; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+p {
+  color: #bababa; 
+  background-color: #f29191; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: 2; 
+  width: 50vw; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+form {
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: auto; 
+  width: 100vw; 
+  height: auto; 
+  margin: 0px; 
+  padding: 25px; 
+}
+
+input {
+  color: #ff9e9e; 
+  background-color: #c1bebe; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: auto; 
+  width: auto; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+footer {
+  color: #ffffff; 
+  border-color: #f70202; 
+  font-family: DejaVu Sans; 
+  font-style: italic; 
+  font-weight: bold; 
+  text-align: center; 
+  width: 7; 
+  width: 100vw; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
+ul {
+  background-color: #fa0000; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: center; 
+  width: auto; 
+  width: auto; 
+  height: auto; 
+  margin: 20px; 
+  padding: 40px; 
+}
+
+li {
+  background-color: #eaa4a4; 
+  border-color: #7d7d7d; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: 24; 
+  width: 420px; 
+  height: 120px; 
+  margin: 0px; 
+  padding: 20px; 
+}
+
+ol {
+  background-color: #00ffd5; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: auto; 
+  width: auto; 
+  height: auto; 
+  margin: 0px; 
+  padding: 60px; 
+}
+
+a {
+  color: #187000; 
+  background-color: #ededed; 
+  font-family: serif; 
+  font-style: normal; 
+  font-weight: normal; 
+  text-align: left; 
+  width: 20; 
+  width: auto; 
+  height: auto; 
+  margin: 0px; 
+  padding: 0px; 
+}
+
